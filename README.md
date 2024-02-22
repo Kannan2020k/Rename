@@ -78,46 +78,46 @@
 
 ### 😍 USER COMMANDS
 ```
-`/start` - Check if the bot is running.
+start - Check if the bot is running.
  
-`/viewthumb` - To view current thumbnail.
+viewthumb - To view current thumbnail.
  
-`/delthumb` - To delete current thumbnail.
+delthumb - To delete current thumbnail.
  
-`/set_caption` - set a custom caption.
+set_caption - set a custom caption.
  
-`/see_caption` - see your custom caption.
+see_caption - see your custom caption.
  
-`/del_caption` - delete custom caption.
+del_caption - delete custom caption.
 
-`/ping` - To Check Bot ping.
+ping - To Check Bot ping.
  
-`/myplan` - To view users current plan.
+myplan - To view users current plan.
 
-`/donate` - To support developer.
+donate - To support developer.
  
-`/upgrade` - To view all plans with price list of BASIC - STANDARD - PRO.
+upgrade - To view all plans with price list of BASIC - STANDARD - PRO.
 ```
 
 
 
 ### ADMIN COMMAND
 ```
-`/users` - Use This Command To See Total Users [FOR ADMINS USE ONLY].
+users - Use This Command To See Total Users [FOR ADMINS USE ONLY].
 
-`/allids` - Use This Command To See All Users IDs [FOR ADMINS USE ONLY].
+allids - Use This Command To See All Users IDs [FOR ADMINS USE ONLY].
  
-`/broadcast` - Message Broadcast command [FOR ADMINS USE ONLY].
+broadcast - Message Broadcast command [FOR ADMINS USE ONLY].
 
-`/warn` - Use This Command To Send A Message To A User [FOR ADMINS USE ONLY].
+warn - Use This Command To Send A Message To A User [FOR ADMINS USE ONLY].
  
-`/ceasepower` - To Cease(downgrade) renaming capacity [FOR ADMINS USE ONLY].
+ceasepower - To Cease(downgrade) renaming capacity [FOR ADMINS USE ONLY].
  
-`/resetpower` - To Reset renaming capacity (to default 2GB)  [FOR ADMINS USE ONLY].
+resetpower - To Reset renaming capacity (to default 2GB)  [FOR ADMINS USE ONLY].
  
-`/addpremium` - To Upgrade user plan to BASIC - STANDARD - PRO  [FOR ADMINS USE ONLY].
+addpremium - To Upgrade user plan to BASIC - STANDARD - PRO  [FOR ADMINS USE ONLY].
 
-`/restart` - Use This Command To Cancel All Process And Restart The Bot [FOR ADMINS USE ONLY].
+restart - Use This Command To Cancel All Process And Restart The Bot [FOR ADMINS USE ONLY].
 ```
 
 
@@ -127,6 +127,6 @@
 - [🔥 lntechnical](https://github.com/lntechnical2)
 
 ### 🤩 Bots Channel
-<a href="https://t.me/madflix_bots">
-   <p>❣️ Madflix Botz 🔥</p>
+<a href="https://t.me/HxBots">
+   <p>❣️ HxBots🔥</p>
 </a>
