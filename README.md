@@ -1,7 +1,7 @@
-<img src="https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg" alt="logo" target="/blank">
+<img src="https://graph.org/file/f4261daff37b2331905ca.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/filerenamexprobot" target="/blank">Rename Bot 4GB</a></>
+ <b><a href="https://t.me/hx_renamebot" target="/blank">Rename-Pro</a></>
 </h1>
 
 <p align="center">🤍 Thanks for Being Here 🤍</p>
@@ -40,8 +40,8 @@
 
 <details><summary>Deploy To Koyeb</summary>
 <p>
-<br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/Rename-Bot-4GB&branch=main&name=rename-botz" >
+<br>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/oVo-HxBots/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[BOT_USERNAME]=1&env[OWNER]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUBS]=1&run_command=python3%20bot.py">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -77,7 +77,7 @@
 
 
 ### 😍 USER COMMANDS
-
+```
 `/start` - Check if the bot is running.
  
 `/viewthumb` - To view current thumbnail.
@@ -97,12 +97,12 @@
 `/donate` - To support developer.
  
 `/upgrade` - To view all plans with price list of BASIC - STANDARD - PRO.
-
+```
 
 
 
 ### ADMIN COMMAND
-
+```
 `/users` - Use This Command To See Total Users [FOR ADMINS USE ONLY].
 
 `/allids` - Use This Command To See All Users IDs [FOR ADMINS USE ONLY].
@@ -118,7 +118,7 @@
 `/addpremium` - To Upgrade user plan to BASIC - STANDARD - PRO  [FOR ADMINS USE ONLY].
 
 `/restart` - Use This Command To Cancel All Process And Restart The Bot [FOR ADMINS USE ONLY].
-
+```
 
 
 
