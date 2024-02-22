@@ -28,9 +28,3 @@ async def broadcast(bot, message):
             except FloodWait as e:
                 await asyncio.sleep(t.x)
 
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
