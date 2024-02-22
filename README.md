@@ -41,7 +41,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/oVo-HxBots/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[BOT_USERNAME]=1&env[OWNER]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUBS]=1&run_command=python3%20bot.py">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/oVo-HxBots/RENAME-PRO&branch=main&name=rename-pro&env[API_HASH]=1&env[API_ID]=1&env[BOT_TOKEN]=1&env[BOT_USERNAME]=1&env[OWNER]=1&env[DB_URL]=1&env[DB_NAME]=rename-pro&env[FORCE_SUBS]=1&env[LOG_CHANNEL]=-100123345&run_command=python3%20bot.py">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -50,7 +50,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/JishuDeveloper/Rename-Bot-4GB">
+<a href="https://heroku.com/deploy?template=https://github.com/oVo-HxBots/RENAME-PRO">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
