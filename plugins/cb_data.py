@@ -34,7 +34,7 @@ async def rename(bot, update):
     chat_id = update.message.chat.id
     id = update.message.reply_to_message_id
     await update.message.delete()
-    await update.message.reply_text(f"__Please Enter The New Filename...__\n\nNote:- Extension Not Required", reply_to_message_id=id,
+    await update.message.reply_text(f"__Please Enter The New Filename...__\n\nNote:- Extension Required", reply_to_message_id=id,
                                     reply_markup=ForceReply(True))
     dateupdate(chat_id, date)
 
@@ -307,9 +307,3 @@ async def aud(bot, update):
             os.remove(file_path)
 
 
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
