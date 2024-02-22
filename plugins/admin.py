@@ -46,7 +46,6 @@ async def resetpower(bot, message):
 				   ]))
 
 
-# PREMIUM POWER MODE @JISHUDEVELOPER
 
 @Client.on_callback_query(filters.regex('vip1'))
 async def vip1(bot,update):
@@ -82,7 +81,6 @@ async def vip3(bot,update):
 	await bot.send_message(user_id,"Hey You Are Upgraded To Pro. Check Your Plan Here /myplan")
 
 
-# CEASE POWER MODE @JISHUDEVELOPER
 
 @Client.on_callback_query(filters.regex('cp1'))
 async def cp1(bot,update):
@@ -105,11 +103,8 @@ async def cp2(bot,update):
 	usertype(int(user_id),"⚠️ Account Downgraded")
 	addpre(int(user_id))
 	await update.message.edit("Added Successfully To Upload Limit 0GB")
-	await bot.send_message(user_id,"Hey You Are Downgraded To Cease Limit 0GB. Check Your Plan Here /myplan \n\n**Contact Admin :** @calladminrobot")
+	await bot.send_message(user_id,"Hey You Are Downgraded To Cease Limit 0GB. Check Your Plan Here /myplan \n\n**Contact Admin :** @Kirodewal")
 
-
-
-# RESET POWER MODE @JISHUDEVELOPER
 
 
 @Client.on_callback_query(filters.regex('dft'))
@@ -121,14 +116,8 @@ async def dft(bot,update):
 	usertype(int(user_id),"🆓 Free")
 	addpre(int(user_id))
 	await update.message.edit("**Daily Data Limit Has Been Reset Successfully.**\n\nThis Account Has Default 2GB Remaining Capacity")
-	await bot.send_message(user_id,"**Your Daily Data Limit Has Been Reset Successfully.**\n\nCheck Your Plan Here /myplan\n\n**Contact Admin :** <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>")
+	await bot.send_message(user_id,"**Your Daily Data Limit Has Been Reset Successfully.**\n\nCheck Your Plan Here /myplan\n\n**Contact Admin :** <a href='https://t.me/Kirodewal'>Kirodewal</a>")
 
 
 
 
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
