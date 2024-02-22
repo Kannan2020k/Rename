@@ -1,15 +1,15 @@
 
 {
 
-    "name": "Rename Bot 4GB",
+    "name": "RenameBot-Premium",
 
-    "description": "4GB Rename Bot",
+    "description": "4GB Rename Bot With Premium Support",
 
-    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "JishuDeveloper" ],
+    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "HxBots" ],
 
-    "repository": "https://github.com/JishuDeveloper/Rename-Bot-4GB",
+    "repository": "https://github.com/oVo-HxBots/RENAME-PRO",
 
-    "success_url": "https://t.me/Madflix_Bots",
+    "success_url": "https://t.me/HxBots",
 
     "env": {
 
@@ -17,7 +17,7 @@
 
             "description" : "Channel or Group user Name With @",
 
-            "value" : "Madflix_Bots",
+            "value" : "HxBots",
 
             "required" : false
 
@@ -90,7 +90,7 @@
 
                "description" : "Database Name ",
 
-               "value" : "madflixbotz",
+               "value" : "rename-premium",
 
                "required" : false
 
@@ -100,7 +100,7 @@
 
              "description" : "Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
 
-             "value" : "",
+             "value" : "-1002031041556",
 
              "required" : true
 
@@ -118,7 +118,7 @@
 
             "description" : "Add bot username without @",
 
-            "value" : "",
+            "value" : "Hx_RenameBot",
 
             "required" : true
 
